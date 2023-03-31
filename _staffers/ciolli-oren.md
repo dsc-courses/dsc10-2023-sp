@@ -1,7 +1,7 @@
 ---
 name: Oren Ciolli
 role: Tutor
-pronouns: #Oren ***insert**
+pronouns: he/him
 email: ociolli@ucsd.edu
 photo: ../assets/staff-images/oren-ciolli.jpg
 description: 4th year, Data Science + Math-Econ, Revelle
