@@ -1,30 +1,27 @@
 ---
-    title: Week 3
+    title: Week 3 – Visualization and More DataFrames
     weekNumber: 3
     days:
-      - date: 2023-1-23
+      - date: 2023-4-17
         events:
-          "**LEC 6**{: .label .label-lecture } [Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec06/lec06.ipynb) [✏️](resources/lectures/lec06/lec06.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_b00/6/kaltura)":
-            "[CIT 7, 7.1](https://inferentialthinking.com/chapters/07/Visualization.html)"
-
-      - date: 2023-1-24
-        events:
-          
-          "**HW 1**{: .label .label-hw } [Basic Python, Arrays, and DataFrames](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=homeworks/hw01/hw01.ipynb)":
-
-      - date: 2023-1-25
-        events:
-          "**LEC 7**{: .label .label-lecture } [Histograms and Overlaid Plots](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec07/lec07.ipynb) [✏️](resources/lectures/lec07/lec07.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_b00/7/kaltura)":
+          "**LEC 7**{: .label .label-lecture } Histograms and Overlaid Plots":
             "[CIT 7.2-7.3](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)"
-          "**DIS 3**{: .label .label-disc } [Querying, Grouping, and Plotting](https://practice.dsc10.com/disc03/index.html) - [Dasha 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_d00/51), [Dylan 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/47) ":
-                
-      - date: 2023-1-27
+      - date: 2023-4-18
         events:
-          "**LEC 8**{: .label .label-lecture } [Functions and Apply](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=lectures/lec08/lec08.ipynb) [✏️](resources/lectures/lec08/lec08.html) [Watch 🎥](https://podcast.ucsd.edu/watch/wi23/dsc10_a00/8/kaltura)":
+          "**HW 1**{: .label .label-hw } **Python Basics, Arrays, and DataFrames**":
+
+      - date: 2023-4-19
+        events:
+          "**LEC 8**{: .label .label-lecture } Functions and Apply":
             "[BPD 6, 12](https://notes.dsc10.com/01-getting_started/functions-defining.html#example)"
-                
-      - date: 2023-1-28
+
+          "**DIS 3**{: .label .label-disc } Querying, Grouping, and Plotting":
+      - date: 2023-4-21
+        events:
+          "**LEC 9**{: .label .label-lecture } Grouping with Subgroups, Merging":
+            "[BPD 11, 13](https://notes.dsc10.com/02-data_sets/groupby.html)"
+      - date: 2023-4-22
         events:
           
-          "**Lab 2**{: .label .label-lab } [Data Visualization and Python Functions](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-wi&subPath=labs/lab02/lab02.ipynb)":
+          "**Lab 2**{: .label .label-lab } **Data Visualization and Functions**":
 ---

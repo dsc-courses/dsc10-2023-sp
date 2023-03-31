@@ -16,3 +16,7 @@ nav_order: 1
 **This site is under construction. Until this warning is removed, any information here is subject to change.**
 
 <!-- [Jump to the current week](#week-10){: .btn } -->
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
