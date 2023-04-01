@@ -12,3 +12,5 @@ askabout: Credit card points and <a href="https://my.flightradar24.com/surajramp
 foodemoji: 🍜
 food: Menya Ultra, Tacos El Gordo, DJK, Charminar, Koon Thai, Bangkok Bay, SomiSomi
 ---
+
+<i><b>Note</b>: If you'd like to talk about issues not related to course content and you aren't able to make it to my office hours, feel free to email me to set up an appointment – I'd be happy to chat </i>😊.

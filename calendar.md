@@ -14,7 +14,7 @@ held on the second floor of the east wing of the [San Diego Supercomputer Center
 entrance on Hopkins Drive, take the elevator up to the second floor, turn left
 at the kitchen, and meet in the common area. 
 
-To join remote office hours (<span style="color:orange"><b>orange</b></span>), click the button below.
+To join remote office hours (<span style="color:orange"><b>orange</b></span>), click the button below. The majority of our office hours are held in-person, though a few are held remotely – **if you’re able to, you’re strongly encouraged to attend in-person**.
 
 [Zoom Link](https://ucsd.zoom.us/j/96501643075){: .btn .btn-blue }
 
