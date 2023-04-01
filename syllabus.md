@@ -18,17 +18,14 @@ nav_order: 2
 
 ---
 
-Coming soon! :D
-
-<!-- 
 ## 🧐 About
 
 Welcome to DSC 10 at UC San Diego! This course aims to teach you how to draw
 conclusions about data. We will learn how to explore data and make predictions
-using data. Programming is a useful tool to help us analyze large data sets,
+using data. Programming is a useful tool to help us analyze large datasets,
 and so we will learn how to program in Python towards this goal. We will learn
 some of the core techniques of data science, and we will practice applying them
-to real data sets from a variety of different disciplines.
+to real datasets from a variety of different disciplines.
 
 Prerequisites: None. This course is an introduction to data science with no
 prior background assumed beyond high school algebra. If you are not planning on
@@ -45,45 +42,41 @@ The contents of this course come from UC Berkeley's Data 8 course, created by An
 
 ## 👨‍🏫 Course Meetings
 
-### Lecture and Discussion
+### Lecture
 
-There are three lecture sections:
-- A00: MWF 10-10:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
-- B00: MWF 11-11:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
-- D00: MWF 9-9:50am ([CSB 001](https://map.concept3d.com/?id=1005#!m/237176))
+There are two lecture sections, both of which are held in [Center Hall 109](https://goo.gl/maps/rLdEtkS1mKxufYqL6):
+- A(00): MWF 12-12:50PM
+- B(00): MWF 1-1:50PM
 
-Lecture is meant to introduce you to the main concepts of the course. Attendance is optional, but students who attend live will have an opportunity to earn extra credit. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
+Lecture is meant to introduce to the main concepts of the course. In-person attendance is never required, but is strongly encouraged when possible, as you’ll get the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
-You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the midterm exam, you must attend the lecture section in which you are officially enrolled.
+You can attend either lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the midterm exam, you must attend the lecture section in which you are officially enrolled.
 
-Course TAs will hold four discussion sections each Wednesday, and you will be assigned to one of them based on the lecture section you are enrolled in and the first letter of your last name.
+**Lectures will be podcasted.** Podcast recordings will be [available online](https://podcast.ucsd.edu/) within a few hours. We will also link recordings from the B section directly on the course homepage; you can access these by clicking the 🎥 emoji.
 
-Note that in the schedule of courses, this course is listed as having a discussion section (DI) and lab section (LA), but we will not necessarily be staffing course meetings at these times. Please ignore these times and instead, refer to the table below to find your assigned discussion section.
+### Discussion
 
-| Last Name   | A00 (10am lecture)                                         | B00 (11am lecture) | D00 (9am lecture) |
-|-----|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
-| **A-G** | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan |
-| **H-M** | Discussion: Wednesday 1pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan | Discussion: Wednesday 2pm<br>Room: Center 212<br>TA: Dylan                  |
-| **N-T** | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha | Discussion: Wednesday 2pm<br>Room: Center 119<br>TA: Dasha | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha |
-| **U-Z** | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha | Discussion: Wednesday 2pm<br>Room: Center 119<br>TA: Dasha | Discussion: Wednesday 1pm<br>Room: Center 113<br>TA: Dasha |
+There are two discussion sections, both of which are held in [Center Hall 214](https://goo.gl/maps/rLdEtkS1mKxufYqL6):
+- A(50): W 2-2:50PM
+- B(50): W 3-3:50PM
 
-Discussion section is primarily focused on exam preparation. Students will work through problems from past DSC 10 exams and go over solutions with the TA. Attendance is optional, but students who attend have an opportunity to earn extra credit. Attending discussion section and working through practice problems in dicussion gives you direct experience with the types of questions you will see on the midterm and final exam.
+{: .warning }
+**In the Schedule of Classes, this course has both a discussion section (DI) and a lab section (LA). We are using the listed lab section for discussion, and we are not using the discussion section listed on WebReg for anything. In short, ignore what WebReg says and follow the information above.**
 
-You must attend the discussion section you are assigned to according to the table above. If you have a conflict, you can request to switch to a section at a different time on the [Beginning of Quarter Survey](https://forms.gle/Wvdn296GoPHBC59d6).
+You can attend either discussion section, but if space fills up, priority will be given to students officially enrolled in that section.
 
-To encourage regular attendance in lecture and discussion, we will offer extra credit for in-person attendance. Each lecture section will take attendance 10 times throughout the quarter, and each discussion section will take attendance 4 times throughout the quarter. You won't know in advance which days attendance will be taken, and it won't necessarily be on the same day in each lecture or discussion section. Each time that you are present and fill out the attendance form, you will earn 0.2% of extra credit on your overall course grade, up to a maximum of 2%. This means you can still earn the maximum possible extra credit even if you miss four course meetings at which attendance is taken. 
+Discussion section is focused on exam preparation. Students will work through problems from past DSC 10 exams and go over solutions with the TA. Attending discussion section and working through practice problems in dicussion gives you direct experience with the types of questions you will see on the midterm and final exam. **Attendance is optional, but students can earn up to 2 percent extra credit on their overall course grade by attending at least 8 discussion sections (0.25% earned for each discussion, up to a maximum of 2%).**
 
-**Lecture and discussion sections will be podcasted.** Podcast recordings will be [available online](https://podcast.ucsd.edu/) within a few hours. 
-
+**Discussions will be podcasted.** Podcast recordings will be [available online](https://podcast.ucsd.edu/) within a few hours. We will also link recordings from the B section directly on the course homepage; you can access these by clicking the 🎥 emoji.
 
 ### Office Hours
 
 In order to provide you with help on assignments and concepts, the course staff
-will hold several office hours throughout the week.
+will hold several office hours throughout the week. The majority of our office hours are held in-person, though a few are held remotely – **if you’re able to, you’re strongly encouraged to attend in-person**. See the
+[Calendar](../calendar) tab of the course website for the most up-to-date schedule and instructions.
 
-We are offering both in-person and remote office hours. See the
-[Calendar](../calendar) for the office hours schedule and for details on how to
-access both types of office hours.
+{: .note }
+**In-person office hours are not held in an office – instead, they're held in a large open space where you can come to work on assignments, meet your classmates, and get help from course staff.**
 
 Office hours are your chance to ask for general help, clarification on
 assignments, and to review previous assignments. Our tutors have previously
@@ -126,30 +119,29 @@ additional platforms that you'll need to access:
 
 - **Ed:** We'll be using Ed as our course message and
   discussion board. More details are in the [Communication](#communication-)
-  section below. If you didn't already get an invitation, [join here]( https://Ed.org/us/join/byz2en).
+  section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/AFKvU7).
 
 - **Gradescope:** You'll submit all assignments and exams to
-  [Gradescope](https://www.gradescope.com/courses/484381 ). This is where all of
+  [Gradescope](https://www.gradescope.com/courses/526132). This is where all of
   your grades will live as well. If you didn't already get an invitation to our
-  Gradescope course, reach out to the instructors on Ed.
+  Gradescope course, reach out to the instructor on Ed.
 
 - **DataHub:** Assignments in this course will involve programming in Python.
-  DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu))  is UCSD's online data
+  DataHub ([datahub.ucsd.edu](https://datahub.ucsd.edu)) is UCSD's online data
   science and machine learning platform, where you will work on assignments. We
   will show you how to use it in class.
 
 Make sure you can access all three sites ASAP. It's a good idea to bookmark
 them, too (though they're all linked at the top of this website). You'll also
 need a **Zoom** account to access remote office hours. You should already have
-an account through UCSD; see the [Zoom guide][zoom] for more help.
+an account through UCSD; see the [Zoom guide](https://edtech.ucsd.edu/education-continuity-tools-and-resources/zoom-guides.html) for more help.
 
-[zoom]: https://edtech.ucsd.edu/education-continuity-tools-and-resources/zoom-guides.html 
+{: .warning }
+**Note that we will not be using Canvas this quarter. Please do not contact the staff through Canvas – we won't be able to read it!**
 
-Note that we will not be using Canvas this quarter. Please do not contact the staff through Canvas.
+### Welcome Survey
 
-### Beginning of Quarter Survey
-
-Please fill out this short [survey](https://forms.gle/Wvdn296GoPHBC59d6) at the beginning of the quarter. This is required of all students.
+Please fill out this short [survey](https://docs.google.com/forms/d/e/1FAIpQLSfP_7dzEgsXgKcrV6zcafpJgepABS_WLXch_9iXHzTtJevTqw/viewform) at the start of the quarter. This is required of all students.
 
 ---
 
@@ -169,7 +161,7 @@ student if you feel that you know the answer – this is a great way to
 strengthen your understanding of the material.
 
 Please use Ed **instead of email**, as this helps us keep all course-related
-communication in one place.
+communication in one place. In particular, don't send course staff questions about course content over email/social media – Ed is the place for that.
 
 ---
 
@@ -190,7 +182,7 @@ Our readings will come from two free online sources.
 
 Weekly lab assignments are a required part of the course and will help you
 develop fluency in Python and working with data. The labs are designed to help
-you build the skills you need to complete homework assignments and projects, in
+you build the skills you need to complete homework assignments and projects in
 a low-stress setting.
 
 As you complete the lab, you'll be able to run a sequence of autograder tests,
@@ -200,9 +192,9 @@ assignment and all the tests pass, you'll get a perfect score!
 To submit a lab, follow the instructions in the assignment to upload your
 notebook to Gradescope, which will run automated tests and assign your score.
 You should verify that all of your test cases pass on Gradescope **before the
-deadline**. Lab assignments will usually be due on **Saturdays at 11:59pm**. We will
-release lab assignments roughly a week before they're due. The lowest lab score
-is dropped from the grade calculation.
+deadline**. Lab assignments will _usually_ be due on **Saturdays at 11:59PM**, though this may change in any given week. We will
+release lab assignments roughly a week before they're due. **Your lowest lab score
+is dropped from your grade calculation at the end of the quarter.**
 
 Labs must be completed and submitted individually, but we encourage you to
 discuss high-level approaches with others. See the [Collaboration Policy and
@@ -234,9 +226,9 @@ submission, this only means that you've passed the formatting tests, not the
 hidden correctness tests that determine your score.
 
 To submit a homework, follow the instructions in the assignment to upload your
-notebook to Gradescope. Homeworks will usually be due **Tuesdays at
-11:59pm**, but the last two homeworks will be due on Thursdays at 11:59pm. We will release homework assignments roughly a week before they're
-due. Each homework is equally weighted at 5% of your overall grade, with no drops.
+notebook to Gradescope. Homeworks will _usually_ be due on **Tuesdays at
+11:59PM**, though this may change in any given week. We will release homework assignments roughly a week before they're
+due. **Each homework is equally weighted at 5% of your overall grade, with no drops.**
 
 Like labs, homeworks must be completed and submitted individually, but we
 encourage you to discuss high-level approaches with others. See the
@@ -246,46 +238,44 @@ details.
 
 ### Projects
 
-This class has two projects, a midterm project and a final project. Projects
+This class has two projects, a Midterm Project and a Final Project. Projects
 are like more challenging homeworks. They are longer than a typical homework,
 and they require you to pull together ideas from previous weeks, rather than
-just the last week. Projects also give you a chance to explore a data set
+just the last week. Projects also give you a chance to explore a dataset
 in-depth, which can be a lot of fun!
 
-Project tests are like homework tests: the provided tests only check if your
-answer has the correct format, not if it is correct. You'll only be able to see
+Project tests are like homework tests – the provided tests only check if your
+answers have the correct format, not if they are correct. You'll only be able to see
 your score on the project after the deadline, once all projects are submitted
 and the hidden correctness tests have been run.
 
-Unlike labs and homeworks, you may work with a partner on projects. Your
+**Unlike labs and homeworks, you may work with a partner on projects.** Your
 partner can be anyone else in either section of the course. If you choose to
 work with a partner, start by reading these [project partner guidelines](../project-partners).
-If working with a partner, only one of you should submit the assignment, and you'll be able to tag your partner in
-your Gradescope submission.
+If working with a partner, only one of you should submit the assignment, and you'll be able to tag your partner in your Gradescope submission.
 
 ### Deadlines and Slip Days
 
-Labs, homeworks, and projects must be submitted by 11:59pm on the due date to
+Labs, homeworks, and projects must be submitted by 11:59PM on the due date to
 be considered on time. You may turn them in as many times as you like before
 the deadline, and only the most recent submission will be graded, so it's a
-good habit to submit early and often. 
+good habit to submit early and often.
 
-When submitting any assignment on Gradescope, make sure to stick around until you 
+**When submitting any assignment on Gradescope, make sure to stick around until you 
 see a confirmation that all tests have passed. If the Gradescope autograder 
 cannot grade your work or you see a message saying "Your submission timed out," 
 this indicates an error with your code, and it is your responsibility to identify 
-and solve the problem before the deadline. 
+and solve the problem before the deadline.**
 
 It may take some time for Gradescope's autograder to grade your submission. 
-You are encouraged to submit 
-with enough time to see the output of the autograder before the 11:59pm deadline, 
+You are encouraged to submit with enough time to see the output of the autograder before the 11:59PM deadline, 
 as it may alert you to a problem you need to fix. However, if you submit before 
-11:59pm and the autograder finishes after 11:59pm, your assigment will still be 
+11:59PM and the autograder finishes running after 11:59PM, your assigment will still be 
 considered on time. 
 
 After submitting, check that you got a confirmation email 
 from Gradescope to verify that your submission was successful. Save this email 
-until you recieve your grade on the assignment, in case of any issues with your submission.
+until you receive your grade on the assignment, in case of any issues with your submission.
 
 You are allotted **six "slip days"** to use throughout the quarter. A slip day extends
 the deadline of any one homework, lab, or project by 24 hours. You cannot turn
@@ -295,7 +285,7 @@ than 2 slip days on any assignment.
 Slip days are designed to be a transparent and predictable source of leniency
 in deadlines. You can use a slip day if you are too busy to complete an
 assignment on its original due date. But slip days are also meant for things
-like the internet (or the DataHub server) going down at 11:58pm just as you go
+like the internet (or the DataHub server) going down at 11:58PM just as you go
 to submit your homework. Slip days are meant to be used in exceptional
 circumstances, so you probably should not need to use all six, but if you have
 something going on in your life that is impeding your ability to do your
@@ -308,12 +298,14 @@ how many you have left. If you've run out of slip days and submit an assignment
 late, that assignment may still be graded, but you will receive a 0 on it when
 we calculate grades at the end of the quarter. However, in the event that you
 use all six days and submit another assignment late, we will allocate your slip
-days first to the final project and midterm project, then to your homeworks (in
+days first to the Final Project and Midterm Project, then to your homeworks (in
 chronological order), and then to your labs (in chronological order). This is
-done to prevent you from receiving a 0 on, say, the final project, if you've
+done to prevent you from receiving a 0 on, say, the Final Project, if you've
 used up all of your slip days at the end of the quarter; in such an example,
 you'd instead receive a 0 on an earlier assignment that isn't weighted as much
-in your grade. 
+in your grade.
+
+If you submit the Midterm Project or Final Project late and are working with a partner, both you and your partner will have to use slip days. For example, if you submit the Midterm Project two days late, both you and your partner will lose two slip days.
 
 ### Submission Errors
 
@@ -349,15 +341,14 @@ It is your responsibility to ensure that all assignments are submitted correctly
 
 ## 📝 Exams
 
-This class has one midterm exam and one final exam. Exams are cumulative,
-though the final exam will emphasize material after the midterm.
+This class has one Midterm Exam and one Final Exam:
 
-Exams will be in-person individual exams during your scheduled lecture. You must attend the exam corresponding to the section you are officially enrolled in.
+- Midterm Exam: Friday, May 5th, **during your registered lecture slot**
+- Final Exam: Saturday, June 10th, 7-10PM, location TBD
 
-- Midterm Exam: Friday, February 10, during lecture (50 minutes)
-- Final Exam: Saturday, March 18, 3-6pm
+Exams are cumulative, though the Final Exam will emphasize material after the Midterm Exam. Both exams will be held **in-person and on-paper**.
 
-If you have a conflict with an exam, you should let us know right away via the [Beginning of Quarter Survey](https://forms.gle/Wvdn296GoPHBC59d6) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
+If you have a conflict with either exam, you should let us know right away via the [Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSfP_7dzEgsXgKcrV6zcafpJgepABS_WLXch_9iXHzTtJevTqw/viewform) to see if accomodations can be made. Without express permission otherwise, students are required to take both exams at the scheduled times.
 
 ---
 
@@ -384,7 +375,7 @@ how grades will be computed:
 | Midterm Exam | 10% | |
 | Final Project | 17.5% | |
 | Final Exam | 17.5% | |
-| Attendance | 2% (extra credit) | |
+| Attendance | 2% (extra credit) | 0.25% per discussion, max 8 |
 
 Note that each lab and each homework assignment will be worth the same amount,
 regardless of the number of points it is graded out of. 
@@ -393,7 +384,7 @@ regardless of the number of points it is graded out of.
 
 If you'd like to request a regrade on any assignment, you must do so within one
 week of the assignment being graded. If you think there is a problem with the
-autograder,  please fill out the [Autograder Regrade Request Form](https://forms.gle/4JsHwG5ARdb3KaTC6). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
+autograder,  please fill out the [Autograder Regrade Request Form](https://docs.google.com/forms/d/e/1FAIpQLSfkCOBIuX7MD9yoDUp9enJU_vDGP5sPnhT-ZJj7MkrH8B4h8Q/viewform). If you think there is a problem with how your written question was graded, submit a regrade request through Gradescope.
 
 ### Letter Grades and Incompletes
 
@@ -542,7 +533,7 @@ respected and feels comfortable.
 
 **I am on the waitlist, but I really want to get into the course. Can you let me in?**
 
-Instructors are not able to enroll students in classes. However, at present, section D00 of this course has plenty of openings, so you can enroll in that section if it's important to you to get a spot. You can attend another lecture if the time does not work for you, but you will need to be present in section D00 for the midterm exam or notify us of your conflict on the [Beginning of Quarter Survey](https://forms.gle/Wvdn296GoPHBC59d6).
+Instructors are not able to enroll students in classes.
 
 **I am on the waitlist, so how can I keep up with the course?**
 
@@ -565,6 +556,3 @@ No. Students on the waitlist were also added to all course tools, so they can
 complete assignments while they are on the waitlist. Check
 [Webreg](https://act.ucsd.edu/webreg2) if you are not sure of your enrollment
 status.
-
-
- -->

@@ -12,8 +12,7 @@
           "**SUR**{: .label .label-survey } **Mid-Quarter Survey**":
       - date: 2023-5-3
         events:
-          "**LEC 14**{: .label .label-lecture } Models and Viewpoints":
-            "[CIT 11.0-11.1](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
+          "**LEC 14**{: .label .label-lecture } TBD":
           "**DIS 5**{: .label .label-disc } Probability and Simulation":
       - date: 2023-5-5
         events:

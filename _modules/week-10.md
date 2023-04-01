@@ -4,15 +4,15 @@
     days:
       - date: 2023-6-5
         events:
-          "**LEC 26**{: .label .label-lecture } Review":
-          
+          "**LEC 26**{: .label .label-lecture } Residuals and Inference":
+            "[CIT 15.5-16.3](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html)"
       - date: 2023-6-6
         events:
           "**PROJ**{: .label .label-proj } **Final Project** (see [partner guidelines](project-partners))":
       - date: 2023-6-7
         events:
           "**LEC 27**{: .label .label-lecture } Review":
-          "**DIS 10**{: .label .label-disc } Review":
+          "**DIS 10**{: .label .label-disc } Regression":
       - date: 2023-6-9
         events:
           "**LEC 28**{: .label .label-lecture } Conclusion":
