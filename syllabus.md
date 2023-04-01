@@ -118,7 +118,7 @@ All course content will be linked from this website, but there are a few
 additional platforms that you'll need to access:
 
 - **Ed:** We'll be using Ed as our course message and
-  discussion board. More details are in the [Communication](#communication-)
+  discussion board. More details are in the [Communication](#-communication)
   section below. If you didn't already get an invitation, [join here](https://edstem.org/us/join/AFKvU7).
 
 - **Gradescope:** You'll submit all assignments and exams to
@@ -198,7 +198,7 @@ is dropped from your grade calculation at the end of the quarter.**
 
 Labs must be completed and submitted individually, but we encourage you to
 discuss high-level approaches with others. See the [Collaboration Policy and
-Academic Integrity](http#collaboration-policy-and-academic-integrity-) section
+Academic Integrity](#-collaboration-policy-and-academic-integrity) section
 for more details.
 
 ### Homework Assignments
@@ -233,7 +233,7 @@ due. **Each homework is equally weighted at 5% of your overall grade, with no dr
 Like labs, homeworks must be completed and submitted individually, but we
 encourage you to discuss high-level approaches with others. See the
 [Collaboration Policy and Academic
-Integrity](http#collaboration-policy-and-academic-integrity-) section for more
+Integrity](#-collaboration-policy-and-academic-integrity) section for more
 details.
 
 ### Projects
@@ -537,13 +537,13 @@ Instructors are not able to enroll students in classes.
 
 **I am on the waitlist, so how can I keep up with the course?**
 
-Waitlisted to students may attend lecture and discussion, space-permitting, and can also watch podcast recordings. You can (and should) still submit assignments if you are on the waitlist. Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](../syllabus#getting-started) section of the syllabus.
+Waitlisted to students may attend lecture and discussion, space-permitting, and can also watch podcast recordings. You can (and should) still submit assignments if you are on the waitlist. Waitlisted students should have access to DataHub to work on assignments. You may need to add yourself to some course tools; see the [Getting Started](#-getting-started) section of the syllabus.
 
 **What are my chances of getting off the waitlist?**
 
 The instructional staff is not equipped to answer this question. Many questions
 about enrollment are [answered
-here](http://datascience.ucsd.edu/academics/undergraduate/faq/). Please direct
+here](https://datascience.ucsd.edu/current-students/enrolling-in-classes/). Please direct
 your questions about enrollment to DSC advising. You can send an email to
 [dscstudent@ucsd.edu](mailto:dscstudent@ucsd.edu), send a message through the
 Virtual Advising Center, or stop by drop-in advising hours. In short, seats in
@@ -554,5 +554,5 @@ this mean I am off the waitlist?**
 
 No. Students on the waitlist were also added to all course tools, so they can
 complete assignments while they are on the waitlist. Check
-[Webreg](https://act.ucsd.edu/webreg2) if you are not sure of your enrollment
+[WebReg](https://act.ucsd.edu/webreg2) if you are not sure of your enrollment
 status.

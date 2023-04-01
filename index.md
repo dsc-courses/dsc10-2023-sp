@@ -12,8 +12,8 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
-{: .warning }
-**This site is under construction. Until this warning is removed, any information here is subject to change.**
+{: .success }
+**Welcome to DSC 10! 👋 Start by reading the [Syllabus](syllabus) and completing the action items in the [Getting Started](syllabus#-getting-started) section. See you on Monday!**
 
 <!-- [Jump to the current week](#week-10){: .btn } -->
 

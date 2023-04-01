@@ -99,3 +99,6 @@ callouts:
   note:
     title: Note
     color: yellow
+  success:
+    title: ""
+    color: green

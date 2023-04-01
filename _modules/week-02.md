@@ -9,7 +9,7 @@
       - date: 2023-4-11
         events:
           "**Lab 0**{: .label .label-lab } **Expressions and Data Types**":
-          "**SUR**{: .label .label-survey } **Welcome Survey**":
+          "**SUR**{: .label .label-survey } **[Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSfP_7dzEgsXgKcrV6zcafpJgepABS_WLXch_9iXHzTtJevTqw/viewform)**":
       - date: 2023-4-12
         events:
           "**LEC 5**{: .label .label-lecture } More Querying and GroupBy ([extra video](https://youtu.be/xg7rnjWnZ48?t=598))":
