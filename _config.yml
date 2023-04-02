@@ -28,13 +28,13 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  🙋‍♂️ Ed:
+  🙋 Ed:
     - 'https://edstem.org/us/courses/38383/discussion/'
   💯 Gradescope:
     - 'https://www.gradescope.com/courses/526132'
-  📜 Reference:
+  📌 Reference:
     - 'https://drive.google.com/file/d/1ky0Np67HS2O4LO913P-ing97SJG0j27n/view?usp=sharing'
-  📚 Practice:
+  💪 Practice:
     - 'https://practice.dsc10.com/'
   ✅ CC:
     - 'http://cc.dsc10.com/'
