@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-3
         events:
-          "**LEC 1**{: .label .label-lecture } Introduction":
+          "**LEC 1**{: .label .label-lecture } [Introduction](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec01/lec01.ipynb) [✏️](resources/lectures/lec01/lec01.html)":
             "[CIT 1.2-1.3](https://inferentialthinking.com/chapters/01/2/why-data-science.html) "
       - date: 2023-4-5
         events:
