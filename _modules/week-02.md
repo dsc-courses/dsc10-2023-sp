@@ -8,7 +8,7 @@
             "[BPD 9-10](https://notes.dsc10.com/02-data_sets/accessing.html)"       
       - date: 2023-4-11
         events:
-          "**Lab 0**{: .label .label-lab } [**Expressions and Data Types**] (http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=labs/lab00/lab00.ipynb)":
+          "**Lab 0**{: .label .label-lab } [**Expressions and Data Types**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=labs/lab00/lab00.ipynb)":
           "**SUR**{: .label .label-survey } **[Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSfP_7dzEgsXgKcrV6zcafpJgepABS_WLXch_9iXHzTtJevTqw/viewform)**":
       - date: 2023-4-12
         events:
