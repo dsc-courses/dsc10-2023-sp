@@ -13,7 +13,9 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 {: .success }
-**Welcome to DSC 10! 👋 Start by reading the [Syllabus](syllabus) and completing the action items in the [Getting Started](syllabus#-getting-started) section. See you on Monday!**
+**Welcome to DSC 10! 👋 Start by reading the [Syllabus](syllabus) and completing the action items in the [Getting Started](syllabus#-getting-started) section**
+
+Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis.
 
 <!-- [Jump to the current week](#week-10){: .btn } -->
 
