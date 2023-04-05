@@ -2,7 +2,7 @@
 name: Teresa Rexin
 role: TA
 pronouns: she/her
-email: sus009@ucsd.edu
+email: trexin@ucsd.edu
 photo: ../assets/staff-images/teresa-rexin.jpeg
 description: 2nd year, M.S. in Statistics
 hometown: Sacramento, CA
