@@ -11,7 +11,7 @@
           "**LEC 2**{: .label .label-lecture } [Expressions and Data Types](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec02/lec02.ipynb) [✏️](resources/lectures/lec02/lec02.html)":
             "[BPD 1-6](https://notes.dsc10.com/01-getting_started/tools.html)"
             
-          "**DIS 1**{: .label .label-disc } Getting Started with Jupyter Notebooks":
+          "**DIS 1**{: .label .label-disc } [Getting Started with Jupyter Notebooks](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=discussion/disc01/disc01.ipynb)":
                 
       - date: 2023-4-7
         events:
