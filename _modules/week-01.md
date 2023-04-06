@@ -16,7 +16,7 @@
                 
       - date: 2023-4-7
         events:
-          "**LEC 3**{: .label .label-lecture } Strings and Arrays":
+          "**LEC 3**{: .label .label-lecture } [Strings and Arrays](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec03/lec03.ipynb) [✏️](resources/lectures/lec03/lec03.html)":
             "[BPD 7-8](https://notes.dsc10.com/02-data_sets/arrays.html)"
                 
 ---
