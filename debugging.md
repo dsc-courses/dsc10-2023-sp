@@ -46,6 +46,14 @@ If it has been a while since you've worked on an assignment, the kernel will shu
 
 While you might see the correct answer displayed as the result of the cell, chances are it isn't being stored in the answer variable. Make sure you are assigning the result to the answer variable. Make sure there are no typos in the variable name.
 
+### I accidentally deleted something in a cell that was provided to me – how do I get it back?
+
+There are two solutions:
+
+1. In [this public GitHub repository](https://github.com/dsc-courses/dsc10-2023-sp), you'll find the "original" versions of all assignments we released this quarter. You can look here and manually add back any necessary code or text that you accidentally deleted.
+
+2. Suppose you're working on Lab 5. One solution is go directly to DataHub and rename your `lab05` folder to something else, like `lab05-old`. Then, click the Lab 5 link on the course website again, and it'll bring you to a brand-new version of Lab 5. Then, you can copy your work from your old Lab 5 to this new one, which should have everything in it.
+
 ## Specific Errors
 
 A general rule of thumb when debugging is to look at the very last line of an error message. That's usually the most informative part of the message, and will often tell you directly what's wrong.
@@ -69,10 +77,10 @@ Python keywords like `str` and `list` appear in green text, so be on the lookout
 ### `No module named 'babypandas'`
 
 This can happen if you click the name of a course other than DSC 10 when logging into DataHub. Here's how to "switch" your DataHub to DSC 10 mode:
-- Click "Control Panel" in the top right
-- Click "Services", then click "manual-resetter"
-- Click "Reset" (if a pop-up box appears, click okay)
-- Log back into DataHub and it should allow you to select a course again – select DSC 10
+- Click "Control Panel" in the top right.
+- Click "Services", then click "manual-resetter".
+- Click "Reset" (if a pop-up box appears, click okay).
+- Log back into DataHub and it should allow you to select a course again – select DSC 10.
 
 
 ### Other errors
@@ -115,14 +123,18 @@ This is usually what's called a "merge conflict", which means that DataHub wasn'
 
 5. Finally, go back to [dsc10.com](https://dsc10.com) and click the link to the assignment you were attempting to work on. It should now load without error. If you still see an error, make a post on Ed with a screenshot of the error you see now.
 
-### Why can’t I log in to Datahub?
+### Why can’t I log in to DataHub?
 
 Log out of all Google accounts or open an incognito window. When prompted, enter your full UCSD email, `username@ucsd.edu`, as your credentials.
 
-### How can Extension Students access Datahub?
+### How can Extension Students access DataHub?
 
-Extension students may receive separate accounts for the purpose of accessing Datahub.  To look up your account information and reset any additional account passwords, visit [this website](https://sdacs.ucsd.edu/~icc/index.php) and enter your AX account in the username field and your UID in the Student ID field (e.g. "axNNNN", "cs120sp20aa", etc.)
+Extension students may receive separate accounts for the purpose of accessing DataHub.  To look up your account information and reset any additional account passwords, visit [this website](https://sdacs.ucsd.edu/~icc/index.php) and enter your AX account in the username field and your UID in the Student ID field (e.g. "axNNNN", "cs120sp20aa", etc.)
 
-### My notebook won't load. Is Datahub down?
+### My notebook won't load. Is DataHub down?
 
-Sometimes Datahub does have availability issues. Usually it is back up and running again within an hour. In other instances, there are some things you can do to get the notebook running again: Make sure your internet connection is working. If you can, restart your server by clicking the button at the top right labeled "Control Panel", then select "Stop My Server", followed by "Start My Server".  If that doesn't work, try restarting your computer and using a different browser. Whenever you resume working on a notebook, run all cells you've previously completed. If your problem persists after trying all these steps, please notify us on Ed.
+Sometimes DataHub does have availability issues. Usually it is back up and running again within an hour. In other instances, there are some things you can do to get the notebook running again: Make sure your internet connection is working. If you can, restart your server by clicking the button at the top right labeled "Control Panel", then select "Stop My Server", followed by "Start My Server".  If that doesn't work, try restarting your computer and using a different browser. Whenever you resume working on a notebook, run all cells you've previously completed. If your problem persists after trying all these steps, please notify us on Ed.
+
+### What if I don't have access to DataHub and I still want to access DSC 10 materials?
+
+We welcome the general public to use our materials. If you're not enrolled in the class, you can access all lectures and assignments in our [public GitHub repository](https://github.com/dsc-courses/dsc10-2023-sp).
