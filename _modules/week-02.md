@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-10
         events: 
-          "**LEC 4**{: .label .label-lecture } DataFrames: Accessing, Sorting, and Querying":
+          "**LEC 4**{: .label .label-lecture } [DataFrames: Accessing, Sorting, and Querying](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec04/lec04.ipynb) [✏️](resources/lectures/lec04/lec04.html)":
             "[BPD 9-10](https://notes.dsc10.com/02-data_sets/accessing.html)"       
       - date: 2023-4-11
         events:
