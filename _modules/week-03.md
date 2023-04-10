@@ -8,7 +8,7 @@
             "[CIT 7.2-7.3](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)"
       - date: 2023-4-18
         events:
-          "**HW 1**{: .label .label-hw } **Python Basics, Arrays, and DataFrames**":
+          "**HW 1**{: .label .label-hw } [**Python Basics, Arrays, and DataFrames**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=homeworks/hw01/hw01.ipynb)":
 
       - date: 2023-4-19
         events:
