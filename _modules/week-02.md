@@ -14,7 +14,7 @@
         events:
           "**LEC 5**{: .label .label-lecture } More Querying and GroupBy ([extra video](https://youtu.be/xg7rnjWnZ48?t=598))":
             "[BPD 10-11](https://notes.dsc10.com/02-data_sets/querying.html)"
-          "**DIS 2**{: .label .label-disc } Python Basics, Arrays, and DataFrames":
+          "**DIS 2**{: .label .label-disc } [Python Basics, Arrays, and DataFrames](https://practice.dsc10.com/disc02/index.html)":
       - date: 2023-4-14
         events:
           "**LEC 6**{: .label .label-lecture } Data Visualization":
