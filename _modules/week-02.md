@@ -12,7 +12,7 @@
           "**SUR**{: .label .label-survey } **[Welcome Survey](https://docs.google.com/forms/d/e/1FAIpQLSfP_7dzEgsXgKcrV6zcafpJgepABS_WLXch_9iXHzTtJevTqw/viewform)**":
       - date: 2023-4-12
         events:
-          "**LEC 5**{: .label .label-lecture } More Querying and GroupBy ([extra video](https://youtu.be/xg7rnjWnZ48?t=598))":
+          "**LEC 5**{: .label .label-lecture } [More Querying and GroupBy](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec05/lec05.ipynb) [✏️](resources/lectures/lec05/lec05.html) ([extra video](https://youtu.be/xg7rnjWnZ48?t=598))":
             "[BPD 10-11](https://notes.dsc10.com/02-data_sets/querying.html)"
           "**DIS 2**{: .label .label-disc } [Python Basics, Arrays, and DataFrames](https://practice.dsc10.com/disc02/index.html)":
       - date: 2023-4-14
