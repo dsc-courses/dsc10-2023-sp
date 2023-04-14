@@ -19,7 +19,7 @@
       - date: 2023-4-14
         events:
           "**LEC 6**{: .label .label-lecture } [Data Visualization](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec06/lec06.ipynb) [✏️](resources/lectures/lec06/lec06.html) ([extra video](https://www.youtube.com/watch?v=glzZ04D1kDg))":
-            "[CIT 7, 7.1](https://inferentialthinking.com/chapters/07/Visualization.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/6) • [CIT 7, 7.1](https://inferentialthinking.com/chapters/07/Visualization.html)"
 
       - date: 2023-4-15
         events:
