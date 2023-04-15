@@ -39,14 +39,14 @@ If you're looking for additional Python practice, these resources are generally 
 
 ### Probability Extra Practice
 
-These are some additional resources to complement Lecture 12, our probability lesson. Use them for extra problem-solving practice.
+These are some additional resources to complement our lecture and assignments on probability. Use them for extra problem-solving practice.
 
 - [Theory Meets Data, Chapters 1 and 2](http://stat88.org/textbook/content/Chapter_01/00_The_Basics.html)
 - [Khan Academy's unit on Probability](https://www.khanacademy.org/math/probability/xa88397b6:probability)
 
 ### Permutation Testing Visualization
 
-This article and visualization intuitively decribes permutation testing, which we cover in Lecture 17. It's very helpful for thinking about permutation testing.
+This article and visualization intuitively decribes permutation testing, which we cover in Lecture 16. It's very helpful for thinking about permutation testing.
 
 - [Permutation testing visualization (Lecture 16)](https://www.jwilber.me/permutationtest/)
 
@@ -67,6 +67,42 @@ These are some videos we made to supplement a previous iteration of the course. 
 - [Bar Charts and `.str.contains` (Lecture 6)](https://youtu.be/OVTroiHby3g)
     - [`.str.contains` only](https://www.youtube.com/watch?v=TCcEhVA6Euw&list=PLDNbnocpJUhbczUw2Rw6bqreEECMvZ8gN&index=1)
 - [Line Plots and Sorting (Lecture 6)](https://www.youtube.com/watch?v=glzZ04D1kDg)
+
+### Review Videos
+
+- [For-loops](https://www.youtube.com/watch?v=DRxRvsVxACs&ab_channel=AbelSeyoum)
+- [Functions and `.apply`](https://www.youtube.com/watch?v=U99Cs78uMVg&ab_channel=AbelSeyoum)
+
+### Diagrams
+
+The interactive diagrams below are taken from lecture. Click on a diagram to "activate" it, then either click through it or use your arrow keys to navigate. If you'd like to see the diagram directly in Google Slides, click the 🔗 emoji.
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpW0NzwT3LjZsIIDAgtSMRM1cl41Gp_Lf8k9GT-gm5sGAIynw4rsgiEFbIybClD6QtxarKaVKLbR9U/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="533" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(1.5px 5px 2.5px 5px);"></iframe>
+
+<br>
+
+<b>Nested Evaluation</b> • Lecture 3 <a href="https://docs.google.com/presentation/d/1weY7aeTAQQ2S05Rx5PF1K7MEBM-eRop-yrXpExrq4Cg/edit?usp=share_link">🔗</a>
+
+</center>
+
+<hr>
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgVlFngQcLMYHP-z1vq5lVXjsBgcHebc-3TX7SW6L_gjX6TD1gsflvVDQUpWiDdeEPqJASenUIfBVd/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="600" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" 
+style="clip-path: inset(1.5px 2.5px 2.5px 5px);"
+></iframe>
+
+<br>
+
+<b>Grouping</b> • Lectures 5 and 6 <a href="https://docs.google.com/presentation/d/1XZ-nuM5XMFR5WgqZ2rt3mn9gDCPfB8ESu07okHKchqw/edit?usp=share_link">🔗</a>
+
+
+</center>
+
+<hr>
 
 ## Practice Exams
 
