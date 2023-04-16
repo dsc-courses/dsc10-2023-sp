@@ -17,6 +17,12 @@ nav_order: 4
 
 ## Supplemental Resources
 
+### <b><span style="color:#eaa302">NEW</span></b>: Diagrams
+
+We've compiled all of the interactive diagrams that are found in lecture, like the one below, and put them in a new [**Diagrams**](../diagrams) page. Check it out!
+
+<center><img src="../assets/images/animation-gif.gif" width=700></center>
+
 ### Course-Specific Resources
 
 These resources will directly complement the content from lectures and assignments in this course. Use them often!
@@ -72,37 +78,6 @@ These are some videos we made to supplement a previous iteration of the course. 
 
 - [For-loops](https://www.youtube.com/watch?v=DRxRvsVxACs&ab_channel=AbelSeyoum)
 - [Functions and `.apply`](https://www.youtube.com/watch?v=U99Cs78uMVg&ab_channel=AbelSeyoum)
-
-### Diagrams
-
-The interactive diagrams below are taken from lecture. Click on a diagram to "activate" it, then either click through it or use your arrow keys to navigate. If you'd like to see the diagram directly in Google Slides, click the 🔗 emoji.
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQpW0NzwT3LjZsIIDAgtSMRM1cl41Gp_Lf8k9GT-gm5sGAIynw4rsgiEFbIybClD6QtxarKaVKLbR9U/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="533" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(1.5px 5px 2.5px 5px);"></iframe>
-
-<br>
-
-<b>Nested Evaluation</b> • Lecture 3 <a href="https://docs.google.com/presentation/d/1weY7aeTAQQ2S05Rx5PF1K7MEBM-eRop-yrXpExrq4Cg/edit?usp=share_link">🔗</a>
-
-</center>
-
-<hr>
-
-<center>
-
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgVlFngQcLMYHP-z1vq5lVXjsBgcHebc-3TX7SW6L_gjX6TD1gsflvVDQUpWiDdeEPqJASenUIfBVd/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="600" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" 
-style="clip-path: inset(1.5px 2.5px 2.5px 5px);"
-></iframe>
-
-<br>
-
-<b>Grouping</b> • Lectures 5 and 6 <a href="https://docs.google.com/presentation/d/1XZ-nuM5XMFR5WgqZ2rt3mn9gDCPfB8ESu07okHKchqw/edit?usp=share_link">🔗</a>
-
-
-</center>
-
-<hr>
 
 ## Practice Exams
 

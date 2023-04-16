@@ -12,6 +12,9 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
+{: .success } 
+Check out the new [**Diagrams**](diagrams) page on the website!
+
 Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis.
 
 [Jump to the current week](#week-2-dataframes){: .btn }
