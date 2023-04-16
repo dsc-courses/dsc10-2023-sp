@@ -23,5 +23,5 @@
       - date: 2023-4-22
         events:
           
-          "**Lab 2**{: .label .label-lab } **Data Visualization and Functions**":
+          "**Lab 2**{: .label .label-lab } [**Data Visualization and Functions**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=labs/lab02/lab02.ipynb)":
 ---
