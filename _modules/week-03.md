@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-17
         events:
-          "**LEC 7**{: .label .label-lecture } Histograms and Overlaid Plots":
+          "**LEC 7**{: .label .label-lecture } [Histograms and Overlaid Plots](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec07/lec07.ipynb) [✏️](resources/lectures/lec07/lec07.html)":
             "[CIT 7.2-7.3](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html)"
       - date: 2023-4-18
         events:
