@@ -61,6 +61,22 @@ style="clip-path: inset(3.5px 5.5px 10px 5px);">
 
 <hr>
 
+### Defining Functions (Lecture 8)
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRKMMwGtrQOeLefj31fCtmbNOaJuKY32eBz1VwHi_5ui0AGYV3MoCjPUtQ_4SB1f9x4Iu6gbH0vFvmB/embed?start=false&loop=false&delayms=60000&rm=minimal" frameborder="0" width="800" height="466" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"
+style="clip-path: inset(15px 5.5px 25px 5px);">
+</iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1iDoZctoUIAn7M5GeUT1D4q76Uwlub11TkYJWllS9vrM/edit?usp=sharing">source</a>)
+
+</center>
+
+<hr>
+
 ### Merging (Lecture 9)
 
 <center>
