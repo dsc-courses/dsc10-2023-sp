@@ -15,7 +15,7 @@
           "**LEC 8**{: .label .label-lecture } [Functions and Apply](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec08/lec08.ipynb) [✏️](resources/lectures/lec08/lec08.html)":
             "[BPD 6, 12](https://notes.dsc10.com/01-getting_started/functions-defining.html#example)"
 
-          "**DIS 3**{: .label .label-disc } Querying, Grouping, and Plotting":
+          "**DIS 3**{: .label .label-disc } Querying, Grouping, and Plotting(https://practice.dsc10.com/disc03/index.html)":
       - date: 2023-4-21
         events:
           "**LEC 9**{: .label .label-lecture } Grouping with Subgroups, Merging":
