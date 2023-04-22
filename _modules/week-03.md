@@ -12,14 +12,15 @@
 
       - date: 2023-4-19
         events:
-          "**LEC 8**{: .label .label-lecture } Functions and Apply":
-            "[BPD 6, 12](https://notes.dsc10.com/01-getting_started/functions-defining.html#example)"
+          "**LEC 8**{: .label .label-lecture } [Functions and Apply](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec08/lec08.ipynb) [✏️](resources/lectures/lec08/lec08.html)":
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/8) • [BPD 6, 12](https://notes.dsc10.com/01-getting_started/functions-defining.html#example)"
 
-          "**DIS 3**{: .label .label-disc } Querying, Grouping, and Plotting":
+          "**DIS 3**{: .label .label-disc } [Querying, Grouping, and Plotting](https://practice.dsc10.com/disc03/index.html)":
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a50/3)"
       - date: 2023-4-21
         events:
-          "**LEC 9**{: .label .label-lecture } Grouping with Subgroups, Merging":
-            "[BPD 11, 13](https://notes.dsc10.com/02-data_sets/groupby.html)"
+          "**LEC 9**{: .label .label-lecture } [Grouping on Multiple Columns, Merging](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec09/lec09.ipynb) [✏️](resources/lectures/lec09/lec09.html)":
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/9) • [BPD 11, 13](https://notes.dsc10.com/02-data_sets/groupby.html)"
       - date: 2023-4-22
         events:
           
