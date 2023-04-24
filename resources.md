@@ -85,9 +85,9 @@ Past exams and detailed solutions can be found at [practice.dsc10.com](https://p
 
 
 ## UC San Diego Links
-- [Data Science Undergraduate Program](https://datascience.ucsd.edu/academics/undergraduate/)
-- [DSC 10 Waitlist and Enrollment](https://datascience.ucsd.edu/academics/undergraduate/course-information/enrolling-in-classes/)
-- [Data Science Advising](https://datascience.ucsd.edu/academics/undergraduate/advising/)
+- [Data Science Undergraduate Program](https://datascience.ucsd.edu/undergraduate/)
+- [DSC 10 Waitlist and Enrollment](https://datascience.ucsd.edu/current-students/enrolling-in-classes/)
+- [Data Science Advising](https://datascience.ucsd.edu/current-students/academic-advising/)
 - [Library Guide to Data and Statistics](https://ucsd.libguides.com/data-statistics)
 - [Academic Integrity Homepage](https://academicintegrity.ucsd.edu)
 - [Counseling and Psychological Services (CAPS)](https://caps.ucsd.edu)

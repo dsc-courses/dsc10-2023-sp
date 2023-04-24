@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-24
         events:
-          "**LEC 10**{: .label .label-lecture } Conditional Statements and Iteration":
+          "**LEC 10**{: .label .label-lecture } [Conditional Statements and Iteration](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec10/lec10.ipynb) [✏️](resources/lectures/lec10/lec10.html)":
             "[CIT 9.1-9.2](https://inferentialthinking.com/chapters/09/Randomness.html)"
 
       - date: 2023-4-25
