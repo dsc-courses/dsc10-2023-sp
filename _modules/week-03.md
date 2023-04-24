@@ -20,7 +20,7 @@
       - date: 2023-4-21
         events:
           "**LEC 9**{: .label .label-lecture } [Grouping on Multiple Columns, Merging](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec09/lec09.ipynb) [✏️](resources/lectures/lec09/lec09.html)":
-            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/9) • [BPD 11, 13](https://notes.dsc10.com/02-data_sets/groupby.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_b00/9) • [BPD 11, 13](https://notes.dsc10.com/02-data_sets/groupby.html)"
       - date: 2023-4-22
         events:
           
