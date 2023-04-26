@@ -14,7 +14,7 @@
         events:
           "**LEC 11**{: .label .label-lecture } Probability ([blank](resources/lectures/lec11/lec11-blank.pdf))":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
-          "**DIS 4**{: .label .label-disc } [Functions, Subgroups, Merge, and Control Flow](https://github.com/dsc-courses/dsc10-2023-sp/blob/gh-pages/_modules/week-04.md)":
+          "**DIS 4**{: .label .label-disc } [Functions, Subgroups, Merge, and Control Flow](https://practice.dsc10.com/disc04/index.html)":
                 
       - date: 2023-4-28
         events:
