@@ -14,7 +14,7 @@
         events:
           "**LEC 11**{: .label .label-lecture } [Probability](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec11/lec11.ipynb) ([blank](resources/lectures/lec11/lec11-blank.pdf), [12PM](resources/lectures/lec11/lec11-a.pdf), [1PM](resources/lectures/lec11/lec11-b.pdf))":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
-          "**DIS 4**{: .label .label-disc } Functions, Subgroups, Merge, and Control Flow":
+          "**DIS 4**{: .label .label-disc } [Functions, Subgroups, Merge, and Control Flow](https://practice.dsc10.com/disc04/index.html)":
                 
       - date: 2023-4-28
         events:
