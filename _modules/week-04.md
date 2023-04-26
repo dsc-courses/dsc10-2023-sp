@@ -12,7 +12,7 @@
           "**HW 2**{: .label .label-hw } [**DataFrames and Data Visualization**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=homeworks/hw02/hw02.ipynb)":
       - date: 2023-4-26
         events:
-          "**LEC 11**{: .label .label-lecture } Probability":
+          "**LEC 11**{: .label .label-lecture } Probability ([blank](resources/lectures/lec11/lec11-blank.pdf))":
             "[CIT 9.5](https://inferentialthinking.com/chapters/09/5/Finding_Probabilities.html)"
           "**DIS 4**{: .label .label-disc } Functions, Subgroups, Merge, and Control Flow":
                 
