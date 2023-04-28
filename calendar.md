@@ -12,7 +12,7 @@ Lectures (<span style="color:blue"><b>blue</b></span>) are held in [Center Hall]
 In-person office hours (<span style="color:purple"><b>purple</b></span>) are
 held on the second floor of the east wing of the [San Diego Supercomputer Center](https://g.page/SDSC_UCSanDiego?share). Enter SDSC from the east
 entrance on Hopkins Drive, take the elevator up to the second floor, turn left
-at the kitchen, and meet in the common area. 
+at the kitchen, and meet in the common area.  If you need a code to enter, look [here](https://edstem.org/us/courses/38383/discussion/3039702).
 
 To join remote office hours (<span style="color:orange"><b>orange</b></span>), click the button below. The majority of our office hours are held in-person, though a few are held remotely – **if you’re able to, you’re strongly encouraged to attend in-person**.
 
