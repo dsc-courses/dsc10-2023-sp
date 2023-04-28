@@ -18,7 +18,7 @@
                 
       - date: 2023-4-28
         events:
-          "**LEC 12**{: .label .label-lecture } Simulation":
+          "**LEC 12**{: .label .label-lecture } [Simulations](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec12/lec12.ipynb) [✏️](resources/lectures/lec12/lec12.html)":
             "[CIT 9.3-9.4](https://inferentialthinking.com/chapters/09/3/Simulation.html)"
                 
       - date: 2023-4-29
