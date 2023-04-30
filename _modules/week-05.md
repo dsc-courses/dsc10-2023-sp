@@ -11,7 +11,7 @@
           "**HW 3**{: .label .label-hw } [**DataFrames, Control Flow, and Probability**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=homeworks/hw03/hw03.ipynb)":
       - date: 2023-5-3
         events:
-          "**LEC 14**{: .label .label-lecture } TBD":
+          "**LEC 14**{: .label .label-lecture } Midterm Review":
           "**DIS 5**{: .label .label-disc } Probability and Simulation":
       - date: 2023-5-5
         events:
