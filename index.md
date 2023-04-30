@@ -17,7 +17,7 @@ Check out [**this**](https://edstem.org/us/courses/38383/discussion/3014984) pos
 
 Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis.
 
-[Jump to the current week](#week-3-visualization-and-more-dataframes){: .btn }
+[Jump to the current week](#week-4-probability-and-simulation){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
