@@ -16,4 +16,5 @@
       - date: 2023-5-5
         events:
           "**Exam**{: .label .label-exam } **Midterm Exam (in class)**":
+          "**SUR**{: .label .label-survey } **[Mid-Quarter Survey (due 12PM!)](https://docs.google.com/forms/d/e/1FAIpQLSctWbIQTzYYGmTAx8pg-nWE1nGUFLyU0D4hHZ9-0rccG39imQ/viewform)**":
 ---

@@ -9,7 +9,6 @@
       - date: 2023-5-9
         events:
           "**PROJ**{: .label .label-proj } **[Midterm Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=projects/midterm-project/midterm-project.ipynb)** (see [partner guidelines](project-partners))":
-          "**SUR**{: .label .label-survey } **Mid-Quarter Survey**":
       - date: 2023-5-10
         events:
           "**LEC 16**{: .label .label-lecture } Hypothesis Testing":
