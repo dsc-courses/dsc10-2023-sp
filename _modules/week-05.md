@@ -5,7 +5,7 @@
       - date: 2023-5-1
         events:
           "**LEC 13**{: .label .label-lecture } [Distributions and Sampling](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec13/lec13.ipynb) [✏️](resources/lectures/lec13/lec13.html)":
-            "[CIT 10.0-10.4](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_b00/13) • [CIT 10.0-10.4](https://inferentialthinking.com/chapters/10/Sampling_and_Empirical_Distributions.html)"
       - date: 2023-5-2
         events:
           "**HW 3**{: .label .label-hw } [**DataFrames, Control Flow, and Probability**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=homeworks/hw03/hw03.ipynb)":
