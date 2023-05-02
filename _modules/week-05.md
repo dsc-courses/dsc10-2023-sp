@@ -12,7 +12,7 @@
       - date: 2023-5-3
         events:
           "**LEC 14**{: .label .label-lecture } Midterm Review":
-          "**DIS 5**{: .label .label-disc } Probability and Simulation":
+          "**DIS 5**{: .label .label-disc } [Probability and Simulation](https://practice.dsc10.com/disc05/index.html)":
       - date: 2023-5-5
         events:
           "**Exam**{: .label .label-exam } **Midterm Exam (in class)**":
