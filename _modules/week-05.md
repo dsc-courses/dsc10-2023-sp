@@ -12,6 +12,7 @@
       - date: 2023-5-3
         events:
           "**LEC 14**{: .label .label-lecture } Midterm Review ([blank](resources/lectures/lec14/lec14-blank.pdf))":
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/14)"
           "**DIS 5**{: .label .label-disc } [Probability and Simulation](https://practice.dsc10.com/disc05/index.html)":
       - date: 2023-5-5
         events:
