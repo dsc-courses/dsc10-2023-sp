@@ -22,5 +22,5 @@
       - date: 2023-5-13
         events:
           
-          "**Lab 4**{: .label .label-lab } **Simulation, Sampling, and Hypothesis Testing**":
+          "**Lab 4**{: .label .label-lab }[] **Simulation, Sampling, and Hypothesis Testing**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=labs/lab04/lab04.ipynb)":
 ---
