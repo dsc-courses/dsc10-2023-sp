@@ -12,9 +12,12 @@ nav_order: 1
 
 {{ site.staffersnobio }}
 
+{: .note }
+<b>There won't be live lecture on Wednesday or Friday, since Suraj is at a <a href="https://cfp.jupytercon.com/2023/talk/XABS9S/">conference</a>. Notebooks and videos for those lectures have already been posted [below](#week-5-midterm-exam). On Wednesday from 1-1:50PM in Center 109, tutors will take up common misconceptions from the Midterm Exam.</b>
+
 Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis.
 
-[Jump to the current week](#week-4-probability-and-simulation){: .btn }
+[Jump to the current week](#week-5-midterm-exam){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
