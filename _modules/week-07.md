@@ -8,7 +8,7 @@
             "[CIT 12.2-13.2](https://inferentialthinking.com/chapters/12/2/Causality.html)"
       - date: 2023-5-16
         events:
-          "**HW 4**{: .label .label-hw } [**Simulation, Sampling, and Hypothesis Testing**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=homeworks/hw03/hw03.ipynb)":
+          "**HW 4**{: .label .label-hw } [**Simulation, Sampling, and Hypothesis Testing**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=homeworks/hw04/hw04.ipynb)":
       - date: 2023-5-17
         events:
           "**LEC 19**{: .label .label-lecture } Bootstrapping, Percentiles, and Confidence Intervals":
