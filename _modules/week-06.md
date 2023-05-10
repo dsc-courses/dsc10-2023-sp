@@ -6,6 +6,7 @@
         events:
           "**LEC 15**{: .label .label-lecture } [Models and Viewpoints](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec15/lec15.ipynb) [✏️](resources/lectures/lec15/lec15.html)":
             "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/16) • [CIT 11.0-11.1](https://inferentialthinking.com/chapters/11/Testing_Hypotheses.html)"
+          "&nbsp;&nbsp;<i>The audio in the podcast died; refer to [this podcast](https://podcast.ucsd.edu/watch/fa22/dsc10_c00/15) from Fall 2022.</i>":
       - date: 2023-5-9
         events:
           "**PROJ**{: .label .label-proj } **[Midterm Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=projects/midterm-project/midterm-project.ipynb)** (see [partner guidelines](project-partners))":
