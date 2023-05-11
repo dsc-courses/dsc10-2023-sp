@@ -14,7 +14,9 @@
         events:
           "**LEC 16**{: .label .label-lecture } [Hypothesis Testing](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec16/lec16.ipynb) [✏️](resources/lectures/lec16/lec16.html) (no live lecture)":
             "[🎥](https://www.youtube.com/playlist?list=PLDNbnocpJUhYWfnX4XCBlVKiMNfaRz7_M) • [CIT 11.2-11.4](https://inferentialthinking.com/chapters/11/2/Multiple_Categories.html)"
-          "**DIS 6**{: .label .label-disc } [Hypothesis Testing](https://practice.dsc10.com/disc06/index.html) []":
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Midterm Recap Session [🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_b00/17)":
+          "**DIS 6**{: .label .label-disc } [Hypothesis Testing](https://practice.dsc10.com/disc06/index.html)":
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a50/6)"
                 
       - date: 2023-5-12
         events:
