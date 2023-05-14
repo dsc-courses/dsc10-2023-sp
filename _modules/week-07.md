@@ -21,5 +21,5 @@
             "[CIT 13.4-14.2](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)"
       - date: 2023-5-20
         events:
-          "**Lab 5**{: .label .label-lab } **Resampling and Bootstrapping**":
+          "**Lab 5**{: .label .label-lab } [**Resampling and Bootstrapping**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=labs/lab05/lab05.ipynb)":
 ---
