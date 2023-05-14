@@ -4,7 +4,7 @@
     days:
       - date: 2023-5-15
         events:
-          "**LEC 18**{: .label .label-lecture } Permutation Testing, Bootstrapping":
+          "**LEC 18**{: .label .label-lecture } [Permutation Testing, Bootstrapping](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec18/lec18.ipynb) [✏️](resources/lectures/lec18/lec18.html)":
             "[CIT 12.2-13.2](https://inferentialthinking.com/chapters/12/2/Causality.html)"
       - date: 2023-5-16
         events:
