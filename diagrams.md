@@ -91,4 +91,72 @@ style="clip-path: inset(15px 5.5px 25px 5px);">
 
 <hr>
 
-We'll add more diagrams as they become relevant.
+### Permutation Testing – Shuffling (Lecture 17)
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3IfZAbqXtscEPu-nTl6lWZcXh6AWfjKsXZpWDNc0UhueXsOYQ7ivShlwbn-PW1EZm7CunTLtq7rmt/embed?start=false&loop=false&delayms=60000&rm=minimal&slide=id.g17c0d9176ba_0_133" frameborder="0" width="640" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 10px 5px);"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1P96Q5nnDn_K85XWx_fqiaV75cBVm0On8OZTamHgsLSw/">source</a>)
+
+</center>
+
+<hr>
+
+### Permutation Testing – Summary (Lectures 17 and 18)
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSovXDonR6EmjrT45h4pY1mwmcKFMWVSdgpbKHC5HNTm9sbG7dojvvCDEQCjuk2dk1oA4gmwMogr8ZL/embed?start=false&loop=false&delayms=3000&rm=minimal&" frameborder="0" width="700" height="400" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 8px 5px);"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1TTWoQ7FU4tzBGc7EskF6WYccIn1BWQbTSizAiFc2p2o/edit?usp=sharing">source</a>)
+
+</center>
+
+<hr>
+
+### Bootstrapping (Lectures 18 and 19)
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_iYHJYXSVMMZ-YQVFwMEFR6EFN3FDSAvaMyUm-YJfLQgRMTHm3vI-wWJJ5999eFJq70nWp2hyItZg/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="700" height="350" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 8px 5px);"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1oYakqMdI7z61BthvgWUJvbT21bKTXg01KmAibglepBI/edit?usp=sharing">source</a>)
+
+</center>
+
+<hr>
+
+### Confidence Intervals (Lecture 20)
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTaPZsueXI6fey_5cj2Y1TevkR1joBvpwaWVsZNvgBlnJSrw1EiBLHJywkFH_QNLU5Tdr6JZgDrhFxG/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="700" height="700" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 8px 5px);"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1l5GVyl60FrornEaZnGL6REV4gjEydRncNVi6k1hHUsA/edit#slide=id.gf8f977745a_0_0">source</a>)
+
+</center>
+
+<hr>
+
+### The Central Limit Theorem (Lectures 22 and 23)
+
+<center>
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTcJd3U1H1KoXqBFcWGKFUPjZbeW4oiNZZLCFY8jqvSDsl4L1rRTg7980nPs1TGCAecYKUZxH5MZIBh/embed?start=false&loop=false&delayms=3000&rm=minimal" frameborder="0" width="700" height="350" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" style="clip-path: inset(3.5px 5.5px 8px 5px);"></iframe>
+
+<br>
+
+(<a href="https://docs.google.com/presentation/d/1GX74m6k0PbLU6j5zPUuylbkcgsel2MPfcpfACZ45AVQ/edit?usp=sharing">source</a>)
+
+</center>
+
+<hr>
