@@ -8,7 +8,7 @@
             "[CIT 14.3-14.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
       - date: 2023-5-23
         events:
-          "**HW 5**{: .label .label-hw } **Permutation Testing, Percentiles, and Bootstrapping**":
+          "**HW 5**{: .label .label-hw } [**Permutation Testing, Percentiles, and Bootstrapping**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=homeworks/hw05/hw05.ipynb)":
       - date: 2023-5-24
         events:
           "**LEC 22**{: .label .label-lecture } The Normal Distribution, The Central Limit Theorem":
