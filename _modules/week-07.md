@@ -13,7 +13,7 @@
         events:
           "**LEC 19**{: .label .label-lecture } [Bootstrapping, Percentiles, and Confidence Intervals](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec19/lec19.ipynb) [✏️](resources/lectures/lec19/lec19.html)":
             "[CIT 13.1-13.3](https://inferentialthinking.com/chapters/13/1/Percentiles.html)"
-          "**DIS 7**{: .label .label-disc } Permutation Testing and Bootstrapping":
+          "**DIS 7**{: .label .label-disc } [Permutation Testing and Bootstrapping](https://practice.dsc10.com/disc07/index.html)":
                 
       - date: 2023-5-19
         events:
