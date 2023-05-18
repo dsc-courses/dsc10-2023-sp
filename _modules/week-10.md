@@ -8,7 +8,7 @@
             "[CIT 15.5-16.3](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html)"
       - date: 2023-6-6
         events:
-          "**PROJ**{: .label .label-proj } **Final Project** (see [partner guidelines](project-partners))":
+          "**PROJ**{: .label .label-proj } **[Final Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=projects/final-project/final-project.ipynb)** (see [partner guidelines](project-partners))":
       - date: 2023-6-7
         events:
           "**LEC 27**{: .label .label-lecture } Review":
