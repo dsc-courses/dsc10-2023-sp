@@ -19,7 +19,7 @@
       - date: 2023-5-19
         events:
           "**LEC 20**{: .label .label-lecture } [Confidence Intervals, Central Tendency](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec20/lec20.ipynb) [✏️](resources/lectures/lec20/lec20.html)":
-            "[CIT 13.4-14.2](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/21) • [CIT 13.4-14.2](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)"
       - date: 2023-5-20
         events:
           "**Lab 5**{: .label .label-lab } [**Resampling and Bootstrapping**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=labs/lab05/lab05.ipynb)":
