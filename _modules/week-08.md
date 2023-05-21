@@ -21,5 +21,5 @@
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
       - date: 2023-5-27
         events:
-          "**Lab 6**{: .label .label-lab } **Center, Spread, and the Normal Distribution**":
+          "**Lab 6**{: .label .label-lab } [**Center, Spread, and the Normal Distribution**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=labs/lab06/lab06.ipynb)":
 ---
