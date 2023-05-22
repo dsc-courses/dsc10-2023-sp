@@ -5,7 +5,7 @@
       - date: 2023-5-22
         events:
           "**LEC 21**{: .label .label-lecture } [Spread, The Normal Distribution](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec21/lec21.ipynb) [✏️](resources/lectures/lec21/lec21.html)":
-            "[CIT 14.3-14.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
+            "🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/22) • [CIT 14.3-14.4](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html)"
       - date: 2023-5-23
         events:
           "**HW 5**{: .label .label-hw } [**Permutation Testing, Percentiles, and Bootstrapping**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=homeworks/hw05/hw05.ipynb)":
