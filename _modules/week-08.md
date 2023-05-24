@@ -13,7 +13,7 @@
       - date: 2023-5-24
         events:
           "**LEC 22**{: .label .label-lecture } [The Normal Distribution, The Central Limit Theorem](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec22/lec22.ipynb) [✏️](resources/lectures/lec22/lec22.html)":
-            "[CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/23)• [CIT 14.4-14.5](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)"
           "**DIS 8**{: .label .label-disc } [The Normal Distribution](https://practice.dsc10.com/disc08/index.html)":
       - date: 2023-5-26
         events:
