@@ -8,7 +8,7 @@
       - date: 2023-5-30
         events:
           "**HW 6**{: .label .label-hw }[**Confidence Intervals, the Normal Distribution, and the CLT**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=homeworks/hw06-new/hw06-new.ipynb)":
-          "[**Clarifications**](https://edstem.org/us/courses/38383/discussion/3155998)"
+            "[**Clarifications**](https://edstem.org/us/courses/38383/discussion/3155998)"
       - date: 2023-5-31
         events:
           "**LEC 24**{: .label .label-lecture } Correlation":
