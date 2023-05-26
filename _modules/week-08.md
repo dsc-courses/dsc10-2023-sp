@@ -18,7 +18,7 @@
             "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a50/8)"
       - date: 2023-5-26
         events:
-          "**LEC 23**{: .label .label-lecture } The Central Limit Theorem, Choosing Sample Sizes":
+          "**LEC 23**{: .label .label-lecture } [The Central Limit Theorem, Choosing Sample Sizes](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec23/lec23.ipynb) [✏️](resources/lectures/lec23/lec23.html)":
             "[CIT 14.6](https://inferentialthinking.com/chapters/14/6/Choosing_a_Sample_Size.html)"
       - date: 2023-5-27
         events:
