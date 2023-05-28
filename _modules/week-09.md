@@ -21,5 +21,5 @@
             "[CIT 15.2-15.4](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)"
       - date: 2023-6-3
         events:
-          "**Lab 7**{: .label .label-lab } **Regression**":
+          "**Lab 7**{: .label .label-lab } [**Regression**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=labs/lab07/lab07.ipynb)":
 ---
