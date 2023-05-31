@@ -11,7 +11,7 @@
             "[**Clarifications**](https://edstem.org/us/courses/38383/discussion/3155998)"
       - date: 2023-5-31
         events:
-          "**LEC 24**{: .label .label-lecture } Correlation":
+          "**LEC 24**{: .label .label-lecture } [Correlation](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec24/lec24.ipynb) [✏️](resources/lectures/lec24/lec24.html)":
             "[CIT 15, 15.1-15.2](https://inferentialthinking.com/chapters/15/Prediction.html)"
           "**DIS 9**{: .label .label-disc } The Central Limit Theorem":
 
