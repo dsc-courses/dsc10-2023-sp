@@ -17,7 +17,7 @@ The [Diagrams](diagrams) page of the course website has been updated to include 
 
 Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis.
 
-[Jump to the current week](#week-7-bootstrapping-confidence-intervals-and-central-tendency){: .btn }
+[Jump to the current week](#week-9-prediction){: .btn }
 
 {% for module in site.modules %}
 {{ module }}
