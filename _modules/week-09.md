@@ -19,7 +19,7 @@
       - date: 2023-6-2
         events:
           "**LEC 25**{: .label .label-lecture } [Regression and Least Squares](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=lectures/lec25/lec25.ipynb) [✏️](resources/lectures/lec25/lec25.html)":
-            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/26) • [CIT 15.2-15.4](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)"
+            "[🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/26)• [CIT 15.2-15.4](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)"
       - date: 2023-6-3
         events:
           "**Lab 7**{: .label .label-lab } [**Regression**](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=labs/lab07/lab07.ipynb)":
