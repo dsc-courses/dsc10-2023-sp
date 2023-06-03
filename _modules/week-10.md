@@ -18,8 +18,8 @@
           "**LEC 28**{: .label .label-lecture } Conclusion":
       - date: 2023-6-10
         events:
-          "**Exam**{: .label .label-exam } **Final Exam (7-10PM, location TBD)**":
-          "**SUR**{: .label .label-survey } **End of Quarter Survey + CAPEs**":
+          "**Exam**{: .label .label-exam } **Final Exam (7-10PM)**":
+          "**SUR**{: .label .label-survey } **[End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSefDOyTsn4b9poc3I5iCbgdtXAnMnAxIjuiyHt5PHwpYoMIlg/viewform) + [CAPEs](https://cape.ucsd.edu) (due 8AM)**":
 
 ---
 
