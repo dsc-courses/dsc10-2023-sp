@@ -13,7 +13,11 @@ nav_order: 1
 {{ site.staffersnobio }}
 
 {: .success } 
-The [Diagrams](diagrams) page of the course website has been updated to include **all** diagrams that will be used for the remainder of the quarter – including diagrams on permutation testing and bootstrapping.
+> The Final Exam is on Saturday 6/10 from 7-10PM! Read [this post on Ed](https://edstem.org/us/courses/38383/discussion/3181148) for all the details. Key announcements:
+> - Before Wednesday's lectures, work through the [Winter 2023 Final Exam](https://practice.dsc10.com/wi23-final); we'll take up the solutions on Wednesday.
+>
+> - If at least 80% of the class fills out both [CAPEs](https://cape.ucsd.edu) and the [End-of-Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSefDOyTsn4b9poc3I5iCbgdtXAnMnAxIjuiyHt5PHwpYoMIlg/viewform) **by Saturday 6/10 at 8AM**, then we will add 0.5% of extra credit to everyone's overall grade.
+>
 
 Below, you can open "static" versions of each lecture by clicking the ✏️ emojis and watch podcasts by clicking the 🎥 emojis.
 
