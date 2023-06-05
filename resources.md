@@ -32,6 +32,7 @@ These resources will directly complement the content from lectures and assignmen
 - [`babypandas` notes](https://notes.dsc10.com)
 - [`babypandas` Documentation](https://babypandas.readthedocs.io/en/latest/index.html)
 - [PandasTutor, a DataFrame visualization tool](https://pandastutor.com/vis.html)
+- [New tutor-created videos and guides](https://edstem.org/us/courses/38383/discussion/3183737)
 
 ### Python Extra Practice
 
