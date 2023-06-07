@@ -11,7 +11,8 @@
           "**PROJ**{: .label .label-proj } **[Final Project](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc10-2023-sp&subPath=projects/final-project/final-project.ipynb)** (see [partner guidelines](project-partners))":
       - date: 2023-6-7
         events:
-          "**LEC 27**{: .label .label-lecture } Winter 2023 Final Review ([blank](resources/lectures/lec27/lec27-blank.pdf))":
+          "**LEC 27**{: .label .label-lecture } Winter 2023 Final Review ([blank](resources/lectures/lec27/lec27-blank.pdf), [filled](resources/lectures/lec27/lec27-filled.pdf))":
+            "[12PM 🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/28), [1PM 🎥](https://podcast.ucsd.edu/watch/sp23/dsc10_a00/28)"
           "**DIS 10**{: .label .label-disc } [Regression](https://practice.dsc10.com/disc10/index.html)":
       - date: 2023-6-9
         events:
