@@ -12,7 +12,7 @@
       - date: 2023-6-7
         events:
           "**LEC 27**{: .label .label-lecture } Winter 2023 Final Review ([blank](resources/lectures/lec27/lec27-blank.pdf))":
-          "**DIS 10**{: .label .label-disc } Regression":
+          "**DIS 10**{: .label .label-disc } [Regression](https://practice.dsc10.com/disc10/index.html)":
       - date: 2023-6-9
         events:
           "**LEC 28**{: .label .label-lecture } Conclusion":
