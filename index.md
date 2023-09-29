@@ -5,15 +5,15 @@ nav_exclude: false
 nav_order: 1
 ---
 
-{: .warning } 
-**This site is for the Spring 2023 offering of DSC 10. The content and syllabus for the Fall 2023 offering of DSC 10 will be different from what you see here, but feel free to look around to see how a past version of this course was run. Check back on Thursday, September 27 for an up-to-date version for Fall 2023.**
-
 # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
 {{ site.staffersnobio }}
+
+{: .note } 
+**This is the website of a previous offering of DSC 10. To see the most recent offering, go to [dsc10.com](https://dsc10.com), and to see other DSC course websites, go to [dsc-courses.github.io](https://dsc-courses.github.io).**
 
 {: .success } 
 > The Final Exam is on Saturday 6/10 from 7-10PM! Read [this post on Ed](https://edstem.org/us/courses/38383/discussion/3181148) for all the details.
